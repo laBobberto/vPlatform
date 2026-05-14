@@ -1,0 +1,19 @@
+# QEMU sources and build
+qemu-source/
+qemu-build/
+
+# Guest images
+guest/
+
+# Runtime files
+qmp.sock
+serial.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
